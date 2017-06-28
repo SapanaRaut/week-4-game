@@ -3,7 +3,7 @@ background
 */
 body{
 	background: url(../images/background-pattern-design-31.jpg);
-	margin: 35px;
+	margin: 15px 35px;
 }
 
 /* Increased font size, changed color/background for the text Crystals Collector!
@@ -13,8 +13,8 @@ body{
 	font-weight: bold;
 	color: white;
 	background-color: #BE6309;
-	margin: 8px;
-	padding: 20px 10px;
+	margin: 3px;
+	padding: 20px 5px;
 	float: left;
 }
 
@@ -22,7 +22,9 @@ body{
 */
 .midInfo{
 	color: #149A4D;
+	font-family: 
 	font-size: bold;
+	font-size: 20px;
 	background-color: #FBE6CD;
 	margin: 5px;
 	padding: 20px 5px 50px 5px;
