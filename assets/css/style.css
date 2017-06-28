@@ -1,0 +1,98 @@
+/*
+background
+*/
+body{
+	background: url(../images/background-pattern-design-31.jpg);
+}
+
+/* Increased font size, changed color/background for the text Crystals Collector!
+*/
+.topHeader{
+	font-size:25px;
+	font-weight: bold;
+	color: white;
+	background-color: #BE6309;
+	margin: 5px;
+	padding: 20px 5px;
+	float: left;
+}
+
+/* Game instructions color font/background for the 
+*/
+.midInfo{
+	color: #149A4D;
+	font-size: bold;
+	background-color: #FBE6CD;
+	margin: 5px;
+	padding: 20px 5px 50px 5px;
+	float: left;
+	clear: both;
+
+}
+
+/* Computer Random Number
+*/
+.compGuessBox{
+	font-size: 25px;
+	text-align: "center";
+	color: purple;
+	background-color: #5BC980;
+	margin: 5px;
+	padding: 5px 100px 70px 5px;
+	float:left;
+	clear: left;
+}
+
+/* wins/losses box*/
+#winsLossBox{
+	background-color: #4AFDF8;
+	margin: 5px;
+	padding: 10px 5px 31px 5px;
+	float:left;
+}
+
+.winLossPTag, .winsContent{
+	margin-bottom: 5px;
+}
+
+/* Crystal background
+*/
+.crystalImages{
+	width: 80px;
+	height: 80px;
+	background-color: white;
+	margin: 5px 3px;
+	padding: 8px;
+	float: left;
+}
+
+.imgOne{
+	clear: left;
+}
+
+/*Total score txt box
+*/
+.totalScoreText{
+	color: white;
+	background-color: #2CA194;
+	margin: 5px 2.5px;
+	padding: 2.5px 40px 5px 5px;
+	float: left;
+	clear: left;
+}
+
+/* score box & score text
+*/
+.scoreBox{
+	width: 100px;
+	height: 60px;
+	background: #2CA194;
+	margin: 5px 2.5px;
+	float: left;
+	clear: left;
+}
+.scoreText{
+	font-size: 1.5em;
+	margin: 5px;
+	color: white;
+}
